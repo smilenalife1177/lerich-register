@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smilenalife1177.github.io/lerich-register/sitemap.xml
